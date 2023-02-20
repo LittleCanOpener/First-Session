@@ -1,0 +1,10 @@
+body {
+    background-color: gray;
+}
+
+header {
+    background-color: brown;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
