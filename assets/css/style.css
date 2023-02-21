@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: white;
 }
 
 header {
@@ -7,13 +7,23 @@ header {
     width: auto;
     height: auto;
     text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
 }
-img {
-    max-width: 25%;
-    max-height: 30%;
-    box-shadow: 2px 2px 25px 10px;
-    border-radius: 50%;
+footer {
+    display: block;
+    background-color: brown;
+    margin-left: 150px;
+    margin-right: 150px;
 }
-ul {
-    list-style-type: none;
-  }
+
+.nav {
+    background-color: aqua;
+}
+.pages {
+    display: inline-block;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 7px;
+    
+}
