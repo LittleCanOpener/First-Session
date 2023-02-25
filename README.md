@@ -1,4 +1,5 @@
 # First-Session HTML ONLY Brainnest Project
+Preview of the website: <a href="https://littlecanopener.github.io/First-Session-HTML-ONLY/index.html" target="_blank">Here</a>
 <h2> Git Terminal Commands:</h2>
 <h3>Main Terminal Commands we're using</h3>
 <div>
